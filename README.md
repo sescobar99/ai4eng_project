@@ -6,7 +6,7 @@
 
 ## Datos
 
-* Provien del dataset de kaggle [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/)
+* Provienen del dataset de kaggle [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/)
 * **[PENDING]** Comandos para hacerlos disponibles en colab
 
 ## **[PENDING]** Videos 
